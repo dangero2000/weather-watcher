@@ -13,9 +13,9 @@ This gave me the idea of making my own script to summerize weather events every 
 
   # To do List
 
-- [ ]Stop Gemini from announcing mondain weather events
-- [ ]Add support for multiple AI providers
-- [ ]Add support for multiple TTS providers
-- [ ]Add cross-platform support
-- [ ]Add support for AI providers to change TTS voices on the fly
-- [ ]Rewrite the entire code base to not depend on Chat GPT
+- [ ] Stop Gemini from announcing mondain weather events
+- [ ] Add support for multiple AI providers
+- [ ] Add support for multiple TTS providers
+- [ ] Add cross-platform support
+- [ ] Add support for AI providers to change TTS voices on the fly
+- [ ] Rewrite the entire code base to not depend on Chat GPT
